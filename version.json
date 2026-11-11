@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "notes": "El aviso de nueva versión ahora se ve por encima del reproductor en Android y Fire Stick.",
-  "windows": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.3.1/MiIPTV-Setup-1.3.1.exe",
-  "android": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.3.1/MiIPTV-1.3.1.apk"
+  "version": "1.4.0",
+  "notes": "Radios: portada con el logo de la emisora en lugar de la pantalla negra, y reconexión automática si el sonido se corta.",
+  "windows": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.4.0/MiIPTV-Setup-1.4.0.exe",
+  "android": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.4.0/MiIPTV-1.4.0.apk"
 }
