@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "notes": "Cambio de dirección del repositorio de versiones.",
-  "windows": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.2.1/MiIPTV-Setup-1.2.1.exe",
-  "android": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.2.1/MiIPTV-1.2.1.apk"
+  "version": "1.3.0",
+  "notes": "Nueva sección 📻 Radios: emisoras de todo el mundo por país (directorio abierto Radio Browser), con buscador y favoritos.",
+  "windows": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.3.0/MiIPTV-Setup-1.3.0.exe",
+  "android": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.3.0/MiIPTV-1.3.0.apk"
 }
