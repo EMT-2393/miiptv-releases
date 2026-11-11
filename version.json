@@ -1,0 +1,6 @@
+{
+  "version": "1.2.0",
+  "notes": "Aviso de nueva versión y actualización desde la propia app.",
+  "windows": "https://github.com/erik-moro-torres/miiptv-releases/releases/download/v1.2.0/MiIPTV-Setup-1.2.0.exe",
+  "android": "https://github.com/erik-moro-torres/miiptv-releases/releases/download/v1.2.0/MiIPTV-1.2.0.apk"
+}
