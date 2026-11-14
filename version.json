@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "notes": "Radios: portada con el logo de la emisora en lugar de la pantalla negra, y reconexión automática si el sonido se corta.",
-  "windows": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.4.0/MiIPTV-Setup-1.4.0.exe",
-  "android": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.4.0/MiIPTV-1.4.0.apk"
+  "version": "1.4.1",
+  "notes": "Fire TV Stick 4K y teles similares: la pantalla ya no se ve ampliada y el vídeo encaja bien; sin icono de imagen rota en el reproductor.",
+  "windows": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.4.1/MiIPTV-Setup-1.4.1.exe",
+  "android": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.4.1/MiIPTV-1.4.1.apk"
 }
