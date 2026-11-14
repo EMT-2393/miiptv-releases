@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "notes": "Enviar a la tele: botón en el reproductor. Web (Chrome/Edge): Chromecast. Móvil Android: duplicar pantalla.",
-  "windows": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.5.0/MiIPTV-Setup-1.5.0.exe",
-  "android": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.5.0/MiIPTV-1.5.0.apk"
+  "version": "1.5.1",
+  "notes": "Buscador: al pulsar Siguiente/Intro se cierra el teclado y el foco pasa a los resultados (películas, series, radios y en vivo).",
+  "windows": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.5.1/MiIPTV-Setup-1.5.1.exe",
+  "android": "https://github.com/EMT-2393/miiptv-releases/releases/download/v1.5.1/MiIPTV-1.5.1.apk"
 }
